@@ -1,0 +1,12 @@
+{
+  "name": "super-mario-kart-nodejs",
+  "version": "1.0.0",
+  "description": "Jogo Mario Kart Desenvolvido com NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Júlio César Niz",
+  "license": "ISC"  
+}
